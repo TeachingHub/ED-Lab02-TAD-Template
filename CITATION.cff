@@ -4,7 +4,7 @@
 cff-version: 1.2.0
 title: Ejercicios de TADs con Pascal
 message: >-
-  Estructuras de Datos. Curso 2024-25. Grado en Ingeniería
+  Estructuras de Datos. Grado en Ingeniería
   del Software. Universidad Rey Juan Carlos. 
 type: software
 authors:
@@ -33,4 +33,4 @@ keywords:
   - data-estructures
   - pointers
   - teaching
-license: MIT
+license: CC BY-NC-SA 4.0
